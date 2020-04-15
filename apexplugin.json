@@ -27,7 +27,7 @@
         "internalName" : "COM.FOEX.PLUGIN.FILEUPLOADEDIT",
         "type" : "region",
         "demo" : "https://www.foex.at/ords/f?p=FUE",
-        "previewImage" : "https://raw.githubusercontent.com/Dani3lSun/apex-plugin-guidedtour/master/preview.png"
+        "previewImage" : "https://raw.githubusercontent.com/FOEXplugins/file-upload-image-editor/master/foex-fue-apex-world-preview.png"
       }
     }
   }
