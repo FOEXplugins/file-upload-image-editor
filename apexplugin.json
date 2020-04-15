@@ -1,7 +1,7 @@
 {
   "name" : "File Upload and Image Editor by FOEX",
   "version" : "20.1.0",
-  "description" : "A beautiful and intuitive file upload & image editor plugin for Oracle APEX that works everywhere!",
+  "description" : "A beautiful and intuitive file upload & image editor plugin for Oracle APEX that works everywhere! Perform all your image editing/transformation requirements in the browser on your phone, tablet or desktop. Speed up your development and speed up the workflow of your users by enabling them to do everything they need with images without resorting to external programs.",
   "keywords" : ["image", "file", "upload", "edit"],
   "homepage" : "https://www.foex.at/ords/f?p=FUE",
   "bugs" : {
