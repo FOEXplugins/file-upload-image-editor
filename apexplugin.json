@@ -1,34 +1,56 @@
 {
-  "name" : "File Upload and Image Editor by FOEX",
-  "version" : "20.1.0",
-  "description" : "A beautiful and intuitive file upload & image editor plugin for Oracle APEX that works everywhere! Perform all your image editing/transformation requirements in the browser on your phone, tablet or desktop. Speed up your development and speed up the workflow of your users by enabling them to do everything they need with images without resorting to external programs.",
-  "keywords" : ["image", "file", "upload", "edit"],
-  "homepage" : "https://www.foex.at/ords/f?p=FUE",
-  "bugs" : {
-    "url" : "https://plugins.foex.at/home/",
-    "email" : "support@foex.at"
-  },
-  "license" : "Commercial",
-  "commercial" : "Yes",
-  "author" : {
-    "name" : "FOEX GmbH",
-    "email" : "office@foex.at",
-    "url" : "https://www.foex.at/"
-  },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/FOEXplugins/file-upload-image-editor.git"
-  },
- "oracle" : {
-    "versions" : ["11.2.0.4", "12.x","18.x","19.x"],
-    "apex" : {
-      "versions" : ["5.1.4","18.x","19.x","20.x"],
-      "plugin" : {
-        "internalName" : "COM.FOEX.PLUGIN.FILEUPLOADEDIT",
-        "type" : "region",
-        "demo" : "https://www.foex.at/ords/f?p=FUE",
-        "previewImage" : "https://raw.githubusercontent.com/FOEXplugins/file-upload-image-editor/master/foex-fue-apex-world-preview.png"
+   "name": "File Upload and Image Editor by FOEX",
+   "version": "20.1.0",
+   "description": "A beautiful and intuitive file upload & image editor plugin for Oracle APEX that works everywhere! Perform all your image editing/transformation requirements in the browser on your phone, tablet or desktop. Speed up your development and speed up the workflow of your users by enabling them to do everything they need with images without resorting to external programs.",
+   "keywords": [
+      "image",
+      "file",
+      "upload",
+      "drag",
+      "drop",
+      "multiple",
+      "multi",
+      "edit"
+   ],
+   "homepage": "https://www.foex.at/file-upload-image-editor/",
+   "bugs": {
+      "url": "https://plugins.foex.at/home/",
+      "email": "support@foex.at"
+   },
+   "license": "Commercial",
+   "commercial": "Yes",
+   "author": {
+      "name": "FOEX GmbH",
+      "email": "office@foex.at",
+      "url": "https://www.foex.at/"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/FOEXplugins/file-upload-image-editor.git"
+   },
+   "oracle": {
+      "versions": [
+         "11.2.0.4",
+         "12.1.0.1",
+         "12.2.0.1",
+         "18.0.0.0",
+         "19.0.0.0"
+      ],
+      "apex": {
+         "versions": [
+            "5.1.4",
+            "18.1.0",
+            "18.2.0",
+            "19.1.0",
+            "19.2.0",
+            "20.1.0"
+         ],
+         "plugin": {
+            "internalName": "COM.FOEX.PLUGIN.FILEUPLOADEDIT",
+            "type": "region",
+            "demo": "https://www.foex.at/ords/f?p=FUE",
+            "previewImage": "https://raw.githubusercontent.com/FOEXplugins/file-upload-image-editor/master/foex-fue-apex-world-preview.png"
+         }
       }
-    }
-  }
+   }
 }
