@@ -22,7 +22,8 @@
    "author": {
       "name": "FOEX GmbH",
       "email": "office@foex.at",
-      "url": "https://www.foex.at/"
+      "url": "https://www.foex.at/",
+      "twitter":"@FOEXplugins"
    },
    "repository": {
       "type": "git",
